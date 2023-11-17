@@ -18,7 +18,7 @@ html {
   @media only screen and (max-width: 37.5em) {
     .gallery {
       grid-template-columns: repeat(6, 1fr);
-      grid-template-rows: repeat(10, 12vw);
+      grid-template-rows: repeat(10, 10vw);
       grid-gap: 1.2rem;
       padding: 1.2rem; } }
   .gallery__item--1 {
